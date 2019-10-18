@@ -1,0 +1,8 @@
+locallibreria = apettito
+catalogo = menu
+
+
+plato     	img
+titulo	 	varchar
+precio	  	int
+ingredientes 	varchar

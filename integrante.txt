@@ -1,0 +1,6 @@
+salvador Gutierrez
+
+user: sa.gutierrezr	
+pass: 123pormi
+
+entorno: django_apettito
